@@ -58,4 +58,4 @@ Successfully registering a new enterprise user account with role-based permissio
 ### 2. User Login & JWT Generation (`POST /api/auth/login`)
 Exchanging valid credentials for secure, stateless Access and Refresh tokens.
 
-![User Login](path/to/your/login-screenshot.png)
+![User Login](images/login.png)
