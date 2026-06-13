@@ -38,4 +38,9 @@ A robust, production-ready authentication and authorization server built with **
    git clone https://github.com/rohit-santraa/enterprise-jwt-auth-server.git
    cd auth-server
 
+2.**Build and start the infrastructure:**
+
+```Bash
+docker compose up --build
+
 
