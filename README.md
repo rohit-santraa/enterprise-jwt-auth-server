@@ -33,13 +33,9 @@ A robust, production-ready authentication and authorization server built with **
 
 ## 🚀 Quick Start (Docker)
 
-1. Clone the repository:
+1. **Clone the repository:**
 ```bash
-   git clone https://github.com/rohit-santraa/enterprise-jwt-auth-server.git
-   cd auth-server```
+   git clone [https://github.com/rohit-santraa/enterprise-jwt-auth-server.git](https://github.com/rohit-santraa/enterprise-jwt-auth-server.git)
+   cd auth-server ```
+Build and start the infrastructure:
 
-2.Build and start the infrastructure:
-
-Bash
-   docker compose up --build
-The application will be available at http://localhost:8080.
