@@ -53,7 +53,7 @@ The application will be available at http://localhost:8080.
 ### 1. User Registration (`POST /api/auth/register`)
 Successfully registering a new enterprise user account with role-based permissions.
 
-![User Registration](path/to/your/register-screenshot.png)
+![User Registration](images/register.png)
 
 ### 2. User Login & JWT Generation (`POST /api/auth/login`)
 Exchanging valid credentials for secure, stateless Access and Refresh tokens.
