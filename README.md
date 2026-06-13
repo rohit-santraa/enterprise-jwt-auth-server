@@ -35,5 +35,5 @@ A robust, production-ready authentication and authorization server built with **
 
 1. Clone the repository:
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/rohit-santraa/enterprise-jwt-auth-server.git
    cd auth-server
