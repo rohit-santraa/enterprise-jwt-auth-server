@@ -46,3 +46,16 @@ A robust, production-ready authentication and authorization server built with **
 3. **Access the application:**
 The application will be available at http://localhost:8080.
 
+
+
+## 📸 API Demonstration
+
+### 1. User Registration (`POST /api/auth/register`)
+Successfully registering a new enterprise user account with role-based permissions.
+
+![User Registration](path/to/your/register-screenshot.png)
+
+### 2. User Login & JWT Generation (`POST /api/auth/login`)
+Exchanging valid credentials for secure, stateless Access and Refresh tokens.
+
+![User Login](path/to/your/login-screenshot.png)
