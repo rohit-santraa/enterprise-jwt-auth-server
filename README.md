@@ -40,7 +40,7 @@ A robust, production-ready authentication and authorization server built with **
 
 2.**Build and start the infrastructure:**
 
-```Bash
-docker compose up --build
+```bash
+   docker compose up --build
 
 
